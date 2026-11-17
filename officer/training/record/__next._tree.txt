@@ -1,0 +1,6 @@
+:HL["/patrolx-demo/_next/static/chunks/15nwedxbln-ox.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"record","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"training","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"officer","h":96,"c":"$Q2"}]]
+0:{"b":"o8uZqmDv2T9secw-rT_eI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
